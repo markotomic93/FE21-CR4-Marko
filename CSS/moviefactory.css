@@ -9,7 +9,7 @@ body {
     
 }
 #header  {
-    color: #FFFFFF;
+    color: white;
 	background: #000000;
 	height: 6rem;
 	font-size: 4em;
@@ -23,6 +23,7 @@ body {
 	padding-top: 20px;
 	font-size: 2em;
 }
+
 
 .card {
     border:0;
@@ -41,7 +42,7 @@ body {
 .card img:hover {
 	transform: scale(1.1);
 	transition: .6s;
-  box-shadow: 0 0 20rem red;
+    box-shadow: 0 0 20rem red;
   
   
 }
@@ -57,5 +58,12 @@ body {
 	position:absolute;
 	 bottom:0px; 
 	 right:10px;
+ }
+ #sort {
+	position: absolute; 
+	top: 25px;
+	left: 10px;
+	border-radius: 50%;
+	border: none;
  }
 

@@ -59,7 +59,7 @@ for (let i = 0; i < likebtn.length; i++) {
               <h5 class="card-title">${val.MovieName}</h5>
               <p class="card-text">${val.MovieGenre}</p>
               <p class="card-text">${val.Description}</p>
-              <p class="card-text">${val.Year}</p>
+              <p>${val.Year}</p>
             </div>
           </div>
     </div>
