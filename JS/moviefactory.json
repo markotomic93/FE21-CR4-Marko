@@ -1,0 +1,81 @@
+let movies = `[
+    {   
+        "MovieName": "Avengers: Endgame",
+        "Year": 2019, 
+        "Image": "https://img.yts.mx/assets/images/movies/avengers_endgame_2019/medium-cover.jpg",
+        "MovieGenre": "Action / Adventure / Drama / Sci-Fi",
+        "Description": "After the devastating events of Avengers: Infinity War , the universe is in ruins due to the efforts of the Mad Titan, Thanos. ",
+        "Likes": "0"
+    }, 
+    {
+        
+        "MovieName": "Avengers: Infinity War",
+        "Year": 2018,
+        "Image": "https://img.yts.mx/assets/images/movies/avengers_infinity_war_2018/medium-cover.jpg",
+        "MovieGenre": "Action / Adventure / Drama / Sci-Fi",
+        "Description": "As the Avengers and their allies have continued to protect the world from threats, a new danger has emerged from the cosmic shadows: Thanos.",
+        "Likes": "0"
+    }, 
+    {
+       
+        "MovieName": "Inception",
+        "Year": 2010,
+        "Image": "https://img.yts.mx/assets/images/movies/Inception_2010/medium-cover.jpg",
+        "MovieGenre": "Action / Crime / Mystery / Sci-Fi / Thriller",
+        "Description": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. ",
+        "Likes": "0"
+    },
+    {
+        
+        "MovieName": "Deadpool",
+        "Year": 2016,
+        "Image": "https://img.yts.mx/assets/images/movies/deadpool_2016/medium-cover.jpg",
+        "MovieGenre": "Action / Adventure / Comedy / Sci-Fi",
+        "Description": "This is the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool.",
+        "Likes": "0"
+    }, 
+    {
+        
+        "MovieName": "Joker",
+        "Year": 2019,
+        "Image": "https://img.yts.mx/assets/images/movies/joker_2019/medium-cover.jpg",
+        "MovieGenre": "Action / Crime / Drama / Thriller",
+        "Description": "Arthur Fleck works as a clown and is an aspiring stand-up comic. He has mental health issues, part of which involves uncontrollable laughter.",    
+        "Likes": "0"
+    }, 
+    {
+        
+        "MovieName": "Furious 7",
+        "Year": 2015,
+        "Image": "https://img.yts.mx/assets/images/movies/furious_seven_2015/medium-cover.jpg",
+        "MovieGenre": "Action / Adventure / Crime / Thriller",
+        "Description": "Dominic and his crew thought they'd left the criminal mercenary life behind. They'd defeated international terrorist Owen Shaw and went their separate ways. But now, Shaw's brother, Deckard Shaw, is out killing the crew one by one for revenge.", 
+        "Likes": "0"
+    }, 
+     {
+       
+        "MovieName": "LOTR: The Fellowship of the Ring",
+        "Year": 2001,
+        "Image": "https://img.yts.mx/assets/images/movies/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_EXTENDED_2001/medium-cover.jpg",
+        "MovieGenre": "Action / Adventure / Drama / Fantasy",
+        "Description": "An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo",
+        "Likes": "0"
+    }, 
+    {
+       
+        "MovieName": "The Conjuring",
+        "Year": 2013,
+        "Image": "https://img.yts.mx/assets/images/movies/The_Conjuring_2013/medium-cover.jpg",
+        "MovieGenre": "Action / Horror / Mystery / Thriller",
+        "Description": "In 1971, Carolyn and Roger Perron move their family into a dilapidated Rhode Island farm house and soon strange things start happening around it with escalating nightmarish terror. ",    
+        "Likes": "0"
+    }, 
+    {
+        
+        "MovieName": "Ford v Ferrari",
+        "Year": 2019,
+        "Image": "https://img.yts.mx/assets/images/movies/ford_v_ferrari_2019/medium-cover.jpg",
+        "MovieGenre": "Action / Biography / Drama / Sport",
+        "Description": "As Enzo Ferrari's fast Rosso-Corsa racing cars dominate the mid-1960s motorsport world, the American car designer, Carroll Shelby, is forced to retire after winning the demanding 1959 '24 Hours of Le Mans' endurance race.",
+        "Likes": "0"
+    }] `
